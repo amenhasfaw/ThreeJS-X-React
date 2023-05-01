@@ -65,4 +65,4 @@ const Experience = () => {
   )
 }
 
-export default Wrapper(Experience,"experience")
+export default Wrapper(Experience,"work")
